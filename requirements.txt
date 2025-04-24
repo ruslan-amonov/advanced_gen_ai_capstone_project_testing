@@ -1,0 +1,14 @@
+langchain
+openai
+faiss-cpu
+pymupdf
+pdfplumber
+streamlit
+requests
+python-dotenv
+langchain-community
+langchain-openai
+tiktoken
+PyGithub
+
+
